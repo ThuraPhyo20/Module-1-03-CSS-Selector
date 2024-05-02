@@ -1,0 +1,31 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.header ,.cpy{
+    background-color: midnightblue;
+    color: aliceblue;
+    height: 90px;
+    line-height: 85px;
+    width: 100%;
+}
+
+figcaption{
+    background-color: lightgray;
+    width: 200px;
+}
+
+.para{
+    font-weight: bold;
+}
+
+.cnt-info{
+    background-color: lightgray;
+}
+
+body{
+    background-color: lightyellow;
+}
+
+ul li{
+    font-weight: bold;
+}
